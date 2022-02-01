@@ -6,13 +6,24 @@ body{
 }
 #post{
 
+    border: solid #333 10px;
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px #ddd;
-    margin: 0 auto;
+    margin: 0 auto; 
 
 }
+
+#cabecera{
+
+    background: #33a;
+
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    
+}
+
 
 #post h1{
     font-size: 20px;
