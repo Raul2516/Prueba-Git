@@ -1,11 +1,13 @@
 body{
+    
+    background: url("../imagenes/op.png");
 
-    color:blue; 
+    color: green; 
     text-align: left;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #post{
-
+    background-color: darkgrey;
     border: solid #333 10px;
     width: 70%;
     padding: 1em;
@@ -16,11 +18,11 @@ body{
 
 #cabecera{
 
-    background: #33a;
+    background: #33a ;
 
     color: white;
     margin: 0;
-    padding: 0.5em;
+    padding: 0.5em 0 0.5em 2em;
     
 }
 
